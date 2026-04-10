@@ -15,6 +15,9 @@ This project is a Sales Dashboard built using Power BI to analyze business perfo
 - Regional Performance
 - Profit Growth %
 
+- Dashboard Image-
+<img width="1313" height="737" alt="Dashboard Image" src="https://github.com/user-attachments/assets/4330da4d-4c6a-4b09-b74d-69dc9a66a7d8" />
+
 🔹 Insights
 - Sales increased by 20% in Q2
 - West region performed best

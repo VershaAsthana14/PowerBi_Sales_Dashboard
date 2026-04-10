@@ -1,3 +1,5 @@
+Power BI Sales Dashboard
+
 This is my Sales Performance Dashboard created using Microsoft Power BI, designed to provide a clear and interactive view of business performance.
 
 At the top, we have key KPI cards showing Total Sales, Total Profit, Total Quantity, and Profit Margin. These KPIs give a quick snapshot of overall performance and help in understanding how the business is performing at a glance.
